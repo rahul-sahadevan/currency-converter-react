@@ -1,0 +1,11 @@
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+@import "tailwindcss"; 
+
+body{
+    font-family: sans-serif;
+}
+
+
